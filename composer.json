@@ -1,5 +1,5 @@
 {
-    "name": "xianlife/MqService",
+    "name": "xianlife/mq-service",
     "description": "基于rabbitmq的消息队列模块化封装",    
     "type": "library",
     "license": "MIT",
